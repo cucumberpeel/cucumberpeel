@@ -1,10 +1,7 @@
 ## welcome 👋
 i get a lot of ideas and build some of them
 
-
-engineering intern @ securityscorecard
-
-cs @ nyu
+engineering intern @ securityscorecard | cs @ nyu
 <!--
 **cucumberpeel/cucumberpeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
