@@ -10,6 +10,8 @@
   <li><a href="https://github.com/cucumberpeel/pind">pind - Pinterest clone</a></li>
 </ul>
 
+![cucumberpeel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cucumberpeel&theme=vue-dark&hide_border=true)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cucumberpeel&show_icons=true&locale=en&layout=compact" alt="cucumberpeel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cucumberpeel&show_icons=true&locale=en" alt="cucumberpeel" /></p>
