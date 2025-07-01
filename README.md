@@ -10,5 +10,3 @@
   <li><a href="https://github.com/cucumberpeel/pind">pind - Pinterest clone</a></li>
   <li><a href="https://github.com/cucumberpeel/skatercal">skatercal - Chrome extension for figure skating competitions<a/></li>
 </ul>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cucumberpeel&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="cucumberpeel's top languages" />
