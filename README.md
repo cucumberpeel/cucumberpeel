@@ -7,7 +7,7 @@
 </ul>
 <p>in progress:</p>
 <ul>
-  <li><a href="https://github.com/cucumberpeel/pind">pind - Pinterest clone</a></li>
+  <li><a href="https://github.com/cucumberpeel/pind">pind - Pinterest clone</a> deployment...</li>
   <li><a href="https://github.com/cucumberpeel/skatercal">skatercal - Chrome extension for figure skating competitions<a/></li>
 </ul>
 <p>coming up:</p>
