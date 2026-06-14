@@ -12,5 +12,5 @@
 </ul>
 <p>coming up:</p>
 <ul>
-  <li>revamped personal website ft. some fun third party apis (strava, spotify)</li>
+  <li><a href="https://github.com/cucumberpeel/portfolio">a new personal website</a></li>
 </ul>
