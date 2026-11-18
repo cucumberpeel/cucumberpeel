@@ -1,4 +1,4 @@
-## welcome 👋
+## 👋
 <p><a href="https://amorygao.myportfolio.com" target="_blank"></a></p>
 <p>projects</p>
 <ul>
